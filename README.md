@@ -11,6 +11,11 @@ The aim is to recommend movies similar to a given movie based on their textual d
 - Calculates the similarity between movies using Cosine Similarity.
 - Provides recommendations based on the similarity scores.
 
+## Libraries
+- Pandas
+- Numpy
+- Seaborn, Matplotlib
+- Gensim
 ## Usage
 query_recommendation(movie_title, number_of_recommendations)
 
